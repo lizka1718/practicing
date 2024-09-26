@@ -6,3 +6,6 @@ def func(a):
     
 text = "abc"
 print(func(text))
+
+
+print("hello world")
